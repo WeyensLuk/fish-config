@@ -8,3 +8,4 @@ abbr --add gp git push
 abbr --add pull git pull
 abbr --add gs git status
 abbr --add gr git reset --hard
+abbr --add fzfbat fzf --preview="bat --color=always {}"
